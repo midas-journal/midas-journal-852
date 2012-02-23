@@ -1,0 +1,19 @@
+# back-up files
+*~
+*.bak
+*.backup
+
+#*.eps
+
+# latex specific
+*.brf
+*.aux
+*.blg
+*.dvi
+*.log
+*.out
+*.pdf
+*.ps
+*.gz
+*.toc
+*.bbl
